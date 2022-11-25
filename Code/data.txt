@@ -1,0 +1,7 @@
+ Ahmad |43|67 Drusy Lane|897-3456
+ Billy|199|123 Apple Street|435-456-5768
+Bob|26|123 Doop Road|345-5678
+Donna|35|Here Road|564-6879
+John|34|ABC Street|768-3245
+Nancy|21|Stuffy Street|345-7896
+sue|45|Happy Lane|456-3245
